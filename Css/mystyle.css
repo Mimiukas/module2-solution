@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+
 }
 
 h1 {
@@ -29,15 +30,20 @@ p {
 #p1 {
   position: relative;
   background-color: #E39EC1;
+  top: -3px;
+  right: -3px;
 
 }
 #p2 {
   background-color: #D22630;
+  top: -3px;
+  right: -3px;
 
 }
 #p3 {
   background-color: #EDE939;
-
+  top: -3px;
+  right: -3px;
 }
 
 
